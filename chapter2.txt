@@ -1,2 +1,3 @@
 hThis is chapter 2
-These are my edits to chapter 2 that shohuld only be here.
+
+This is my new edit to chapter 2 that will be commited and pushed to the chapter2 branch. 
