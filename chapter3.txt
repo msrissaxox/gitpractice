@@ -1,1 +1,4 @@
 This is chapter 3.
+
+These are the changes I am implementing on chapter3's branch. From here, I will commit and push these changes, then 
+go back to my main doc and merge the changes into that one. 
